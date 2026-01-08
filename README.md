@@ -7,6 +7,7 @@
 - Mitä ketterällä kehityksellä tarkoitetaan?
 - Mitä menetelmää käytettiin ennen ketterää kehitystä?
 - Miksi ketterään kehitykseen on siirrytty?
+- Kerro lyhyesti agilesta?
 - Mitä ovat Scrum ja Kanban?
 - Miten Scrumin ja Kanbanin olennainen ero?
 - Miten Jira liittyy ketterään kehitykseen?
